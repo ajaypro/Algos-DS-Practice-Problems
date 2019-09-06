@@ -2,8 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f16f656f-33d3-491f-b701-4fc1d66378ae" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/practice/hashing/Subsequence2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/javafx_base_12_0_2_linux.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practice/arrays/MissingRepeating.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practice/hashing/SubArraySumZero.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Algos&amp;Ds.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Algos&amp;Ds.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algos&amp;Ds/practice/hashing/Subsequence2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algos&amp;Ds/practice/hashing/Subsequence2.class" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -25,7 +29,11 @@
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Downloads/jar_files/javafx-base-12.0.2-linux.jar!/" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -39,7 +47,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Subsequence2">
+  <component name="RunManager" selected="Application.MissingRepeating">
     <configuration name="Arraysize" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="practice.arrays.Arraysize" />
       <module name="Algos&amp;Ds" />
@@ -53,8 +61,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ArraytoLinkedList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="practice.arrays.ArraytoLinkedList" />
+    <configuration name="MissingRepeating" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="practice.arrays.MissingRepeating" />
       <module name="Algos&amp;Ds" />
       <extension name="coverage">
         <pattern>
@@ -66,12 +74,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ArraytoLinkedList2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="practice.arrays.ArraytoLinkedList2" />
+    <configuration name="SubArraySumZero" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="practice.hashing.SubArraySumZero" />
       <module name="Algos&amp;Ds" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="practice.arrays.*" />
+          <option name="PATTERN" value="practice.hashing.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -107,11 +115,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MissingRepeating" />
+        <item itemvalue="Application.SubArraySumZero" />
         <item itemvalue="Application.Subsequence2" />
         <item itemvalue="Application.Arraysize" />
         <item itemvalue="Application.SubsequenceElements" />
-        <item itemvalue="Application.ArraytoLinkedList2" />
-        <item itemvalue="Application.ArraytoLinkedList" />
       </list>
     </recent_temporary>
   </component>
@@ -158,6 +166,16 @@
           <url>file://$PROJECT_DIR$/src/practice/MathFunctions.java</url>
           <line>11</line>
           <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/practice/hashing/SubArraySumZero.java</url>
+          <line>39</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/practice/arrays/MissingRepeating.java</url>
+          <line>57</line>
+          <option name="timeStamp" value="11" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

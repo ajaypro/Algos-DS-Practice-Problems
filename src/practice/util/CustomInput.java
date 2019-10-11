@@ -7,4 +7,5 @@ package practice.util;
 public class CustomInput {
 
       public static  String str[] = {"xzfxmffa", "xzfxmffa", "xzfxmffa", "xzfxmffa", "xzfxmffa", "xzfxmffa", "xzfxmffa", "xzfxmffa", "xzfxmffa", "xzfxmffa", "xzfxmffa", "rylllkw", "rylllkw", "rylllkw", "rylllkw","rylllkw","rylllkw","rylllkw","rylllkw","rylllkw","rylllkw","rylllkw","rylllkw","rylllkw","rylllkw","rylllkw","rylllkw","rylllkw","rylllkw","rylllkw","rylllkw"};
+      public static int arr[] = {-1, -2, 0, 2, -2, -1, 3, 6, 9 };
 }

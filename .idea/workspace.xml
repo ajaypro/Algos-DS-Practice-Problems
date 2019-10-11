@@ -2,11 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f16f656f-33d3-491f-b701-4fc1d66378ae" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/practice/DP/LRUPageFaults.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice/strings/RepeatingStrings.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algos&amp;Ds/practice/test/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algos&amp;Ds/practice/test/Test.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/practice/test/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/practice/test/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algos&amp;Ds/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algos&amp;Ds/Test.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algos&amp;Ds/practice/trees/LeafNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algos&amp;Ds/practice/trees/LeafNode.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algos&amp;Ds/practice/util/CustomInput.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algos&amp;Ds/practice/util/CustomInput.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/practice/util/CustomInput.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/practice/util/CustomInput.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -46,35 +47,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.LeafNode">
-    <configuration name="LeafNode" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="practice.trees.LeafNode" />
-      <module name="Algos&amp;Ds" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="practice.trees.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Que" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="practice.linkedlists.Que" />
-      <module name="Algos&amp;Ds" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="practice.linkedlists.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="RepeatedString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="practice.strings.RepeatedString" />
+  <component name="RunManager" selected="Application.LongestConSequence">
+    <configuration name="AnagramCheck" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="practice.strings.AnagramCheck" />
       <module name="Algos&amp;Ds" />
       <extension name="coverage">
         <pattern>
@@ -86,12 +61,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ReverseList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="practice.linkedlists.ReverseList" />
+    <configuration name="LongestConSequence" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="practice.arrays.LongestConSequence" />
       <module name="Algos&amp;Ds" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="practice.linkedlists.*" />
+          <option name="PATTERN" value="practice.arrays.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -99,12 +74,38 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ReverseList1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="practice.linkedlists.ReverseList1" />
+    <configuration name="MaxMinArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="practice.arrays.MaxMinArray" />
       <module name="Algos&amp;Ds" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="practice.linkedlists.*" />
+          <option name="PATTERN" value="practice.arrays.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RotatedStringsSub" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="practice.strings.RotatedStringsSub" />
+      <module name="Algos&amp;Ds" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="practice.strings.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SortString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="practice.strings.SortString" />
+      <module name="Algos&amp;Ds" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="practice.strings.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -114,11 +115,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.LeafNode" />
-        <item itemvalue="Application.RepeatedString" />
-        <item itemvalue="Application.Que" />
-        <item itemvalue="Application.ReverseList" />
-        <item itemvalue="Application.ReverseList1" />
+        <item itemvalue="Application.LongestConSequence" />
+        <item itemvalue="Application.AnagramCheck" />
+        <item itemvalue="Application.MaxMinArray" />
+        <item itemvalue="Application.SortString" />
+        <item itemvalue="Application.RotatedStringsSub" />
       </list>
     </recent_temporary>
   </component>
@@ -185,6 +186,26 @@
           <url>file://$PROJECT_DIR$/src/practice/linkedlists/ReverseList.java</url>
           <line>28</line>
           <option name="timeStamp" value="32" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/practice/hashing/KSumPair.java</url>
+          <line>44</line>
+          <option name="timeStamp" value="33" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/practice/hashing/CountDistinct.java</url>
+          <line>29</line>
+          <option name="timeStamp" value="35" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/practice/strings/RotatedStrings.java</url>
+          <line>25</line>
+          <option name="timeStamp" value="36" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/practice/arrays/LongestConSequenceT.java</url>
+          <line>40</line>
+          <option name="timeStamp" value="38" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

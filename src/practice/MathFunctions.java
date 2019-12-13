@@ -16,7 +16,9 @@ public class MathFunctions {
             kMultiples = Math.min(i + k -1, arr.length -1);
         }
 
-        System.out.println(kMultiples);
+        //System.out.println(kMultiples);
+
+        System.out.println(Math.min(5,7));
 
     }
 }

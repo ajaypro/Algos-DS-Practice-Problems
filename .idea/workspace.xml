@@ -4,10 +4,12 @@
     <list default="true" id="f16f656f-33d3-491f-b701-4fc1d66378ae" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/Algos&amp;Ds/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algos&amp;Ds/Test.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algos&amp;Ds/practice/trees/LeafNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algos&amp;Ds/practice/trees/LeafNode.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algos&amp;Ds/practice/util/CustomInput.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algos&amp;Ds/practice/util/CustomInput.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algos&amp;Ds/practice/MathFunctions.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algos&amp;Ds/practice/MathFunctions.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algos&amp;Ds/practice/arrays/FindSubarray.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algos&amp;Ds/practice/arrays/FindSubarray.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algos&amp;Ds/practice/arrays/LongestConSequence.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/practice/util/CustomInput.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/practice/util/CustomInput.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/practice/MathFunctions.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/practice/MathFunctions.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/practice/arrays/FindSubarray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/practice/arrays/FindSubarray.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -29,7 +31,7 @@
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Desktop/EcoSystem/EcoSystem" />
     <property name="project.structure.last.edited" value="Libraries" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -47,13 +49,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.LongestConSequence">
-    <configuration name="AnagramCheck" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="practice.strings.AnagramCheck" />
+  <component name="RunManager" selected="Application.PositiveLinkedlist">
+    <configuration name="MathFunctions" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="practice.MathFunctions" />
       <module name="Algos&amp;Ds" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="practice.strings.*" />
+          <option name="PATTERN" value="practice.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -61,8 +63,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LongestConSequence" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="practice.arrays.LongestConSequence" />
+    <configuration name="MinimumDiff" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="practice.arrays.MinimumDiff" />
       <module name="Algos&amp;Ds" />
       <extension name="coverage">
         <pattern>
@@ -74,8 +76,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MaxMinArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="practice.arrays.MaxMinArray" />
+    <configuration name="MissingMinPositive" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="practice.arrays.MissingMinPositive" />
       <module name="Algos&amp;Ds" />
       <extension name="coverage">
         <pattern>
@@ -87,8 +89,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RotatedStringsSub" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="practice.strings.RotatedStringsSub" />
+    <configuration name="MovingString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="practice.strings.MovingString" />
       <module name="Algos&amp;Ds" />
       <extension name="coverage">
         <pattern>
@@ -100,12 +102,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SortString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="practice.strings.SortString" />
+    <configuration name="PositiveLinkedlist" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="practice.linkedlists.PositiveLinkedlist" />
       <module name="Algos&amp;Ds" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="practice.strings.*" />
+          <option name="PATTERN" value="practice.linkedlists.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -115,11 +117,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.LongestConSequence" />
-        <item itemvalue="Application.AnagramCheck" />
-        <item itemvalue="Application.MaxMinArray" />
-        <item itemvalue="Application.SortString" />
-        <item itemvalue="Application.RotatedStringsSub" />
+        <item itemvalue="Application.PositiveLinkedlist" />
+        <item itemvalue="Application.MovingString" />
+        <item itemvalue="Application.MissingMinPositive" />
+        <item itemvalue="Application.MathFunctions" />
+        <item itemvalue="Application.MinimumDiff" />
       </list>
     </recent_temporary>
   </component>
@@ -183,11 +185,6 @@
           <option name="timeStamp" value="30" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/practice/linkedlists/ReverseList.java</url>
-          <line>28</line>
-          <option name="timeStamp" value="32" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/practice/hashing/KSumPair.java</url>
           <line>44</line>
           <option name="timeStamp" value="33" />
@@ -198,14 +195,29 @@
           <option name="timeStamp" value="35" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/practice/strings/RotatedStrings.java</url>
-          <line>25</line>
-          <option name="timeStamp" value="36" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/practice/arrays/LongestConSequenceT.java</url>
           <line>40</line>
           <option name="timeStamp" value="38" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/practice/arrays/MajorityElement.java</url>
+          <line>20</line>
+          <option name="timeStamp" value="40" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/practice/linkedlists/RotateList.java</url>
+          <line>57</line>
+          <option name="timeStamp" value="41" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/practice/strings/ReverseString.java</url>
+          <line>30</line>
+          <option name="timeStamp" value="44" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/practice/arrays/MinimumDiff.java</url>
+          <line>38</line>
+          <option name="timeStamp" value="45" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

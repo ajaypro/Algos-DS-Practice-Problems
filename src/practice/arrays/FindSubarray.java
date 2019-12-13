@@ -38,6 +38,10 @@ public class FindSubarray {
 
     static int subArray(int arr[], int arr2[]) {
 
+        if(arr.length < arr2.length){
+            return -1;
+        }
+
         Arrays.sort(arr);
         Arrays.sort(arr2);
 
